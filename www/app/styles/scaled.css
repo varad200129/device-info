@@ -1,0 +1,35 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2018 App Builder - https://www.davidesperalta.com
+ */
+
+/* App auto generated CSS */
+
+html, body { width: 320px; height: 480px; }
+
+#Button1 { position: absolute; top: 90.00%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
+#Label1 { position: absolute; top: 0.42%; left: 2.50%; width: 50.00%; height: 4.17%; }
+
+#Label2 { position: absolute; top: 15.42%; left: 2.50%; width: 50.00%; height: 4.17%; }
+
+#Label3 { position: absolute; top: 30.42%; left: 2.50%; width: 50.00%; height: 4.17%; }
+
+#Label4 { position: absolute; top: 45.42%; left: 2.50%; width: 50.00%; height: 4.17%; }
+
+#Input1 { position: absolute; top: 5.42%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
+#Input2 { position: absolute; top: 20.42%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
+#Input3 { position: absolute; top: 35.42%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
+#Input4 { position: absolute; top: 50.42%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
+#Label5 { position: absolute; top: 60.42%; left: 2.50%; width: 50.00%; height: 4.17%; }
+
+#Input5 { position: absolute; top: 65.42%; left: 2.50%; width: 95.00%; height: 8.33%; }
+
+#Label6 { position: absolute; top: 75.42%; left: 2.50%; width: 50.00%; height: 4.17%; }
+
+#Input6 { position: absolute; top: 80.42%; left: 2.50%; width: 95.00%; height: 8.33%; }

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="com.appbuilder.device" version="1.0.0" android-versionCode="1" ios-CFBundleVersion="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+  <name short="Device">Device (Created with an unregistered version of DecSoft&apos;s App Builder)</name>
+  <description>Another App Builder app</description>
+  <author href="https://www.davidesperalta.com/" email="info@davidesperalta.com">App Builder</author>
+  <access origin="*" />
+  <allow-intent href="*" />
+  <allow-navigation href="*" />
+  <content src="index.html" />
+  <preference name="phonegap-version" value="cli-7.0.1" />
+  <preference name="fullscreen" value="false" />
+  <preference name="disallowOverscroll" value="true" />
+  <preference name="orientation" value="portrait" />
+  <preference name="deployment-target" value="10.0" />
+  <preference name="target-device" value="universal" />
+  <preference name="KeepRunning" value="true" />
+  <preference name="ShowTitle" value="false" />
+  <preference name="android-minSdkVersion" value="14" />
+  <preference name="android-targetSdkVersion" value="23" />
+  <preference name="windows-target-version" value="10.0" />
+  <preference name="SplashScreenDelay" value="5000" />
+  <icon src="res/icon.png" />
+  <platform name="android">
+    <icon src="res/icons/android/ldpi.png" density="ldpi" />
+    <icon src="res/icons/android/mdpi.png" density="mdpi" />
+    <icon src="res/icons/android/hdpi.png" density="hdpi" />
+    <icon src="res/icons/android/xhdpi.png" density="xhdpi" />
+    <icon src="res/icons/android/xxhdpi.png" density="xxhdpi" />
+    <icon src="res/icons/android/xxxhdpi.png" density="xxxhdpi" />
+  </platform>
+  <platform name="amazon-fireos">
+    <icon src="res/icons/android/ldpi.png" density="ldpi" />
+    <icon src="res/icons/android/mdpi.png" density="mdpi" />
+    <icon src="res/icons/android/hdpi.png" density="hdpi" />
+    <icon src="res/icons/android/xhdpi.png" density="xhdpi" />
+    <icon src="res/icons/android/xxhdpi.png" density="xxhdpi" />
+    <icon src="res/icons/android/xxxhdpi.png" density="xxxhdpi" />
+  </platform>
+  <platform name="blackberry10">
+    <icon src="res/icons/bb10/icon-86.png" />
+    <icon src="res/icons/bb10/icon-90.png" />
+    <icon src="res/icons/bb10/icon-114.png" />
+    <icon src="res/icons/bb10/icon-150.png" />
+  </platform>
+  <platform name="firefoxos">
+    <icon src="res/icons/ff/logo.png" width="60" height="60" />
+  </platform>
+  <platform name="tizen">
+    <icon src="res/icons/tizen/icon-128.png" width="128" height="128" />
+  </platform>
+  <platform name="wp8">
+    <icon src="res/icons/wp/ApplicationIcon.png" width="99" height="99" />
+    <icon src="res/icons/wp/Background.png" width="159" height="159" />
+  </platform>
+  <platform name="windows">
+    <icon src="res/icons/windows/storelogo.png" target="StoreLogo" />
+    <icon src="res/icons/windows/smalllogo.png" target="Square30x30Logo" />
+    <icon src="res/icons/windows/StoreLogo.scale-240.png" target="StoreLogo.scale-240" />
+    <icon src="res/icons/windows/Square44x44Logo.png" target="Square44x44Logo" />
+    <icon src="res/icons/windows/Square70x70Logo.png" target="Square70x70Logo" />
+    <icon src="res/icons/windows/Square71x71Logo.png" target="Square71x71Logo" />
+    <icon src="res/icons/windows/Square150x150Logo.png" target="Square150x150Logo" />
+    <icon src="res/icons/windows/Square310x310Logo.png" target="Square310x310Logo" />
+    <icon src="res/icons/windows/Wide310x150Logo.png" target="Wide310x150Logo" />
+  </platform>
+  <platform name="ios">
+    <icon src="res/icons/ios/icon-60@3x.png" width="180" height="180" />
+    <icon src="res/icons/ios/icon-60.png" width="60" height="60" />
+    <icon src="res/icons/ios/icon-60@2x.png" width="120" height="120" />
+    <icon src="res/icons/ios/icon-76.png" width="76" height="76" />
+    <icon src="res/icons/ios/icon-76@2x.png" width="152" height="152" />
+    <icon src="res/icons/ios/icon-40.png" width="40" height="40" />
+    <icon src="res/icons/ios/icon-40@2x.png" width="80" height="80" />
+    <icon src="res/icons/ios/icon.png" width="57" height="57" />
+    <icon src="res/icons/ios/icon@2x.png" width="114" height="114" />
+    <icon src="res/icons/ios/icon-72.png" width="72" height="72" />
+    <icon src="res/icons/ios/icon-72@2x.png" width="144" height="144" />
+    <icon src="res/icons/ios/icon-small.png" width="29" height="29" />
+    <icon src="res/icons/ios/icon-small@2x.png" width="58" height="58" />
+    <icon src="res/icons/ios/icon-small@3x.png" width="87" height="87" />
+    <icon src="res/icons/ios/icon-50.png" width="50" height="50" />
+    <icon src="res/icons/ios/icon-50@2x.png" width="100" height="100" />
+    <icon src="res/icons/ios/icon-83.5@2x.png" width="167" height="167" />
+    <icon src="res/icons/ios/icon-1024.png" width="1024" height="1024" />
+  </platform>
+  <platform name="android">
+    <splash src="res/screens/android/drawable-port-ldpi-screen.png" density="port-ldpi" />
+    <splash src="res/screens/android/drawable-port-mdpi-screen.png" density="port-mdpi" />
+    <splash src="res/screens/android/drawable-port-hdpi-screen.png" density="port-hdpi" />
+    <splash src="res/screens/android/drawable-port-xhdpi-screen.png" density="port-xhdpi" />
+    <splash src="res/screens/android/drawable-port-xxhdpi-screen.png" density="port-xxhdpi" />
+    <splash src="res/screens/android/drawable-port-xxxhdpi-screen.png" density="port-xxxhdpi" />
+    <splash src="res/screens/android/drawable-land-ldpi-screen.png" density="land-ldpi" />
+    <splash src="res/screens/android/drawable-land-mdpi-screen.png" density="land-mdpi" />
+    <splash src="res/screens/android/drawable-land-hdpi-screen.png" density="land-hdpi" />
+    <splash src="res/screens/android/drawable-land-xhdpi-screen.png" density="land-xhdpi" />
+    <splash src="res/screens/android/drawable-land-xxhdpi-screen.png" density="land-xxhdpi" />
+    <splash src="res/screens/android/drawable-land-xxxhdpi-screen.png" density="land-xxxhdpi" />
+  </platform>
+  <platform name="ios">
+    <splash src="res/screens/ios/Default~iphone.png" width="320" height="480" />
+    <splash src="res/screens/ios/Default@2x~iphone.png" width="640" height="960" />
+    <splash src="res/screens/ios/Default-Portrait~ipad.png" width="768" height="1024" />
+    <splash src="res/screens/ios/Default-Portrait@2x~ipad.png" width="1536" height="2048" />
+    <splash src="res/screens/ios/Default-568h@2x~iphone.png" width="640" height="1136" />
+    <splash src="res/screens/ios/Default-667h.png" width="750" height="1334" />
+    <splash src="res/screens/ios/Default-736h.png" width="1242" height="2208" />
+    <splash src="res/screens/ios/Default-Portrait@~ipadpro.png" width="2048" height="2732" />
+    <splash src="res/screens/ios/Default-Landscape~ipad.png" width="1024" height="768" />
+    <splash src="res/screens/ios/Default-Landscape@2x~ipad.png" width="2048" height="1536" />
+    <splash src="res/screens/ios/Default-Landscape-736h.png" width="2208" height="1242" />
+    <splash src="res/screens/ios/Default-Landscape@~ipadpro.png" width="2732" height="2048" />
+    <splash src="res/screens/ios/Default@2x~universal~anyany.png" width="2732" height="2732" />
+  </platform>
+  <platform name="wp8">
+    <splash src="res/screens/wp8/splashscreen.jpg" width="620" height="300" />
+    <splash src="res/screens/wp8/SplashScreenImage.jpg" width="480" height="800" />
+  </platform>
+  <platform name="windows">
+    <splash src="res/screens/windows/splashscreen.png" width="620" height="300" />
+    <splash src="res/screens/windows/splashscreenphone.png" width="1152" height="1920" />
+    <splash src="res/screens/windows/SplashScreen.scale-100.png" width="620" height="300" />
+    <splash src="res/screens/windows/SplashScreen.scale-240.png" width="1152" height="1920" />
+    <splash src="res/screens/windows/SplashScreenPhone.scale-240.png" width="1152" height="1920" />
+  </platform>
+  <platform name="blackberry10">
+    <splash src="res/screens/blackberry10/splashscreen.png" />
+  </platform>
+  <platform name="android">
+    <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
+  </platform>
+  <platform name="blackberry10">
+    <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
+  </platform>
+  <platform name="wp8">
+    <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
+  </platform>
+  <platform name="windows">
+    <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
+  </platform>
+  <platform name="ios">
+    <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
+  </platform>
+  <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+  <gap:plugin name="cordova-plugin-device" source="npm" />
+</widget>

@@ -1,0 +1,37 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2018 App Builder - https://www.davidesperalta.com
+ */
+
+/* App auto generated CSS */
+
+html, body, .appView { width: 320px; height: 480px; }
+
+.dialogView .modal-dialog { width: 320px; margin: 0 auto; }
+
+#Button1 { position: absolute; top: 432px; left: 8px; width: 304px; height: 40px; }
+
+#Label1 { position: absolute; top: 2px; left: 8px; width: 160px; height: 20px; }
+
+#Label2 { position: absolute; top: 74px; left: 8px; width: 160px; height: 20px; }
+
+#Label3 { position: absolute; top: 146px; left: 8px; width: 160px; height: 20px; }
+
+#Label4 { position: absolute; top: 218px; left: 8px; width: 160px; height: 20px; }
+
+#Input1 { position: absolute; top: 26px; left: 8px; width: 304px; height: 40px; }
+
+#Input2 { position: absolute; top: 98px; left: 8px; width: 304px; height: 40px; }
+
+#Input3 { position: absolute; top: 170px; left: 8px; width: 304px; height: 40px; }
+
+#Input4 { position: absolute; top: 242px; left: 8px; width: 304px; height: 40px; }
+
+#Label5 { position: absolute; top: 290px; left: 8px; width: 160px; height: 20px; }
+
+#Input5 { position: absolute; top: 314px; left: 8px; width: 304px; height: 40px; }
+
+#Label6 { position: absolute; top: 362px; left: 8px; width: 160px; height: 20px; }
+
+#Input6 { position: absolute; top: 386px; left: 8px; width: 304px; height: 40px; }
